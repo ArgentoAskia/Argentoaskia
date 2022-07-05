@@ -1,16 +1,23 @@
-### Hi there 👋
+# 饚，:)👋
 
-<!--
-**ArgentoAskia/Argentoaskia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [x] 一位老师ヾ(≧▽≦*)o
+- [x] 老旧技术爱好者o((>ω< ))o
+- [x] 普通程序员（￣︶￣）↗　
+- [x] 互联网边缘人`(*>﹏<*)′
+- [x] 死宅(/≧▽≦)/
+- [ ] ~~变态ԅ(¯﹃¯ԅ)~~
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
