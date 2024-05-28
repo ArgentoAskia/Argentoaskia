@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="./readme-img/1.css"/>
+
 # Askia
 
 ### Hi, 👋
@@ -52,7 +53,6 @@
 <img src="https://img.shields.io/badge/deepin-007CFF?style=flat-square&logo=deepin&logoColor=ffffff">
 <img src="https://img.shields.io/badge/CentOS%207-262577?style=flat-square&logo=CentOS&logoColor=ffffff">
 <img src="https://img.shields.io/badge/MIUI%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff">
-
 
 
 
