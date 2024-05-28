@@ -2,7 +2,7 @@
 
 ### Hi, 👋
 
-<div id="self-intro" style="font-size: 18px;margin-left: 10px;margin-right: 10px;padding-top: 20px;">我是一名来自中国广东的开发者和教师，喜欢写写Demo和小工具，钟爱计网和教育学！我的世界玩家。</div>
+我是一名来自中国广东的开发者和教师，喜欢写写Demo和小工具，钟爱计网和教育学！我的世界玩家。
 
 - 开发者 | 运维工程师 | 编程老师
 - Steam | PSP | PS5 | Switch | Xbox | VR
