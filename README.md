@@ -2,28 +2,17 @@
 
 ### Hi, 👋
 
-
-<div id="self-panel">
-<div id="self" style="border-radius: 10px;box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1), 0 2px 4px 0px rgba(0,0,0,0.1);padding: 10px;margin-bottom: 10px;">
 <div id="self-intro" style="font-size: 18px;margin-left: 10px;margin-right: 10px;padding-top: 20px;">我是一名来自中国广东的开发者和教师，喜欢写写Demo和小工具，钟爱计网和教育学！我的世界玩家。</div>
 
-<ul style="font-size: 18px;padding-top: 10px; margin-right: 5px;">
-<li>
-开发者 | 运维工程师 | 编程老师
-</li>
-<li>
-Steam | PSP | PS5 | Switch | Xbox | VR
-</li>
-<li>
-<img style="vertical-align: middle;" src="./readme-img/mc.png" alt=
+- 开发者 | 运维工程师 | 编程老师
+- Steam | PSP | PS5 | Switch | Xbox | VR
+- <img style="vertical-align: middle;" src="./readme-img/mc.png" alt=
 "我的世界"> | <img style="vertical-align: middle;" src="./readme-img/punish.png" alt=
 "战双"> | <img style="vertical-align: middle;" src="./readme-img/fgo.png" alt=
 "命运·冠位指定"> | <img style="vertical-align: middle;" src="./readme-img/Wuthering-Waves.png" alt=
 "鸣潮">
-</li>
-</ul>
-</div>
-</div>
+- [博客](https://www.argentoaskia.cn)
+
 <div id="github-readme-stats" style="margin-top: 10px;border-radius: 10px;box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1), 0 2px 4px 0px rgba(0,0,0,0.1);">
 <img style="width: 100%;height: 100%;vertical-align: middle;"src="https://github-readme-stats.vercel.app/api?username=argentoaskia&show_icons=true&theme=radical&hide=stars&locale=cn&include_all_commits">
 </div>
@@ -60,5 +49,4 @@ Steam | PSP | PS5 | Switch | Xbox | VR
 <img src="https://img.shields.io/badge/CentOS%207-262577?style=flat-square&logo=CentOS&logoColor=ffffff">
 <img src="https://img.shields.io/badge/MIUI%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff">
 </span>
-
 
