@@ -1,41 +1,3 @@
-<style>
-    #self{
-        border-radius: 10px;
-        box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1), 0 2px 4px 0px rgba(0,0,0,0.1);
-        padding: 10px;
-        margin-bottom: 10px;
-    }
-    #self-intro{
-        font-size: 18px;
-        margin-left: 10px;
-        margin-right: 10px;
-        padding-top: 20px;
-    }
-
-    #github-readme-stats{
-        margin-top: 10px;
-        border-radius: 10px;
-        box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1), 0 2px 4px 0px rgba(0,0,0,0.1);
-    }
-
-    #github-readme-stats img{
-        width: 100%;
-        height: 100%;
-        vertical-align: middle;
-    }
-
-    ul{
-        font-size: 18px;
-        padding-top: 10px;
-        margin-right: 5px;
-    }
-
-     #use{
-        display: flex;
-        justify-content: space-between;
-    }
-
-</style>
 # Askia
 
 ### Hi, 👋
@@ -90,7 +52,44 @@
 <img src="https://img.shields.io/badge/CentOS%207-262577?style=flat-square&logo=CentOS&logoColor=ffffff">
 <img src="https://img.shields.io/badge/MIUI%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff">
 
+<style>
+    #self{
+        border-radius: 10px;
+        box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1), 0 2px 4px 0px rgba(0,0,0,0.1);
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+    #self-intro{
+        font-size: 18px;
+        margin-left: 10px;
+        margin-right: 10px;
+        padding-top: 20px;
+    }
 
+    #github-readme-stats{
+        margin-top: 10px;
+        border-radius: 10px;
+        box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1), 0 2px 4px 0px rgba(0,0,0,0.1);
+    }
+    
+    #github-readme-stats img{
+        width: 100%;
+        height: 100%;
+        vertical-align: middle;
+    }
+    
+    ul{
+        font-size: 18px;
+        padding-top: 10px;
+        margin-right: 5px;
+    }
+    
+     #use{
+        display: flex;
+        justify-content: space-between;
+    }
+
+</style>
 
 
 
