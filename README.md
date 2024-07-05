@@ -31,8 +31,10 @@
 <img src="https://img.shields.io/badge/-Java-f80000?style=flat-square&logo=oracle&logoColor=fff">
 <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=fff">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff">
+<img src="https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff">
 <img src="https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=gnu%20bash&logoColor=fff">
 <img src="https://img.shields.io/badge/-Visual%20Basic-512BD4?style=flat-square&logo=visualbasic&logoColor=fff" alt="Visual Basic">
+<img alt="scratch" src="https://img.shields.io/badge/scratch-blue?style=flat-square&logo=scratch&logoColor=fff">
 </div>
 
 <div id="recent">
