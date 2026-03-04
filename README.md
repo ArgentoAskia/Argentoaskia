@@ -13,7 +13,7 @@
 "鸣潮">
 - [博客](https://www.argentoaskia.cn)
 
-<div id="github-readme-stats" style="margin-top: 10px;border-radius: 10px;box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1), 0 2px 4px 0px rgba(0,0,0,0.1);display:flex; gap: 20px">
+<div id="github-readme-stats" style="margin-top: 10px;border-radius: 10px;box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1), 0 2px 4px 0px rgba(0,0,0,0.1);">
   <img style="width: 500px;vertical-align: middle;"src="https://github-stats-extended.vercel.app/api?username=argentoaskia">
   <img style="width: 500px;vertical-align: middle;"src="https://github-stats-extended.vercel.app/api/top-langs/?username=argentoaskia">
 </div>
@@ -52,6 +52,7 @@
 <img src="https://img.shields.io/badge/CentOS%207-262577?style=flat-square&logo=CentOS&logoColor=ffffff">
 <img src="https://img.shields.io/badge/MIUI%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff">
 </span>
+
 
 
 
