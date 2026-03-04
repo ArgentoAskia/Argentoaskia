@@ -38,7 +38,7 @@
 </div>
 
 <div id="recent">
-  <img style="width: 500px;vertical-align: middle;"src="https://github-stats-extended.vercel.app/api/top-langs/?username=argentoaskia">
+  <img style="width: 300px;vertical-align: middle;margin-top:20px"src="https://github-stats-extended.vercel.app/api/top-langs/?username=argentoaskia">
 </div>
 </div>
 
@@ -51,6 +51,7 @@
 <img src="https://img.shields.io/badge/CentOS%207-262577?style=flat-square&logo=CentOS&logoColor=ffffff">
 <img src="https://img.shields.io/badge/MIUI%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff">
 </span>
+
 
 
 
