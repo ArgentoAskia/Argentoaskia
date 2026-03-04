@@ -2,15 +2,12 @@
 
 ### Hi, 👋
 
-我是一名来自中国广东的开发者和教师，喜欢写写Demo和小工具，钟爱计网和教育学！我的世界玩家。
-
-- 开发者 | 运维工程师 | 编程老师
+- 我的世界玩家。
+- 懒狗 | 臭打游戏的
 - Steam | PSP | PS5 | Switch | Xbox | VR
 - <img style="vertical-align: middle;" src="./readme-img/mc.png" alt=
-"我的世界"> | <img style="vertical-align: middle;" src="./readme-img/punish.png" alt=
-"战双"> | <img style="vertical-align: middle;" src="./readme-img/fgo.png" alt=
-"命运·冠位指定"> | <img style="vertical-align: middle;" src="./readme-img/Wuthering-Waves.png" alt=
-"鸣潮">
+"我的世界"> | <img style="vertical-align: middle;" src="./readme-img/fgo.png" alt=
+"命运·冠位指定">
 - [博客](https://www.argentoaskia.cn)
 
 <div id="github-readme-stats" style="margin-top: 10px;border-radius: 10px;box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1), 0 2px 4px 0px rgba(0,0,0,0.1);">
@@ -34,6 +31,7 @@
 <img src="https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff">
 <img src="https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=gnu%20bash&logoColor=fff">
 <img src="https://img.shields.io/badge/-Visual%20Basic-512BD4?style=flat-square&logo=visualbasic&logoColor=fff" alt="Visual Basic">
+<img src="https://img.shields.io/badge/-Python-512BD0?style=flat-square&logo=Python&logoColor=fff" alt="Python">
 <img alt="scratch" src="https://img.shields.io/badge/scratch-blue?style=flat-square&logo=scratch&logoColor=fff">
 </div>
 
@@ -51,6 +49,7 @@
 <img src="https://img.shields.io/badge/CentOS%207-262577?style=flat-square&logo=CentOS&logoColor=ffffff">
 <img src="https://img.shields.io/badge/MIUI%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff">
 </span>
+
 
 
 
